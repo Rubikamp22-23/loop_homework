@@ -15,7 +15,7 @@ public class Hop {
 
         //while loop
         int i = 0;
-        while (i <= 30){
+        while (i <= 100){
             i++;
             if (i % 5 == 0){
                 System.out.println("Hop!!");

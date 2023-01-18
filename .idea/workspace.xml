@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69095c2b-d8c7-4a38-88d6-3614f44784a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibonacciNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumbersDivisibleBy5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
+    <list default="true" id="69095c2b-d8c7-4a38-88d6-3614f44784a5" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/src/EvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,9 +87,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.PrimeNumbers" />
-        <item itemvalue="Application.FibonacciNumbers" />
         <item itemvalue="Application.NumbersDivisibleBy5" />
         <item itemvalue="Application.Hop" />
+        <item itemvalue="Application.FibonacciNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -112,8 +101,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673941457480</updated>
-      <workItem from="1673941460573" duration="16745000" />
+      <workItem from="1673941460573" duration="17121000" />
     </task>
+    <task id="LOCAL‎−۰۰۰۰۱" summary="init commit">
+      <created>1674038056820</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
+      <updated>1674038056820</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +128,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -19,37 +19,3 @@ public class EvenNumbers {
 
     }
 }
-
-
-
-
-
-
-
-
-
-//    }
-//        // اعداد زوج
-//        // with for loop
-//        for (int i = 0; i <=100 ; i++) {
-//            if(i % 2 == 0){
-//                System.out.println(i);
-//            }
-//        }
-//
-//
-//        //with while loop
-//        int i = 0;
-//        while (i <= 100){
-//            i++;
-//                if (i % 2 == 0) {
-//                    System.out.println(i);
-//        }
-//
-//
-//}
-//}
-
-
-
-
