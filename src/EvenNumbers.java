@@ -1,0 +1,55 @@
+public class EvenNumbers {
+    public static void main(String[] args) {
+
+        // for loop
+        for (int i = 0; i <= 100; i++) {
+            if (i % 2 == 0){
+                System.out.println(i);
+            }
+        }
+
+        //while loop
+        int i = 0;
+        while (i <= 100){
+            i ++;
+            if (i % 2 == 0){
+                System.out.println(i);
+            }
+        }
+
+    }
+}
+
+
+
+
+
+
+
+
+
+//    }
+//        // اعداد زوج
+//        // with for loop
+//        for (int i = 0; i <=100 ; i++) {
+//            if(i % 2 == 0){
+//                System.out.println(i);
+//            }
+//        }
+//
+//
+//        //with while loop
+//        int i = 0;
+//        while (i <= 100){
+//            i++;
+//                if (i % 2 == 0) {
+//                    System.out.println(i);
+//        }
+//
+//
+//}
+//}
+
+
+
+
